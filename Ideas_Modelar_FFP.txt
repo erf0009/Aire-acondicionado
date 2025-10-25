@@ -5,13 +5,13 @@
 - Aire acondicionado (obvio).
 - Salida de aire del aire acondicionado.
 - Cable.
-- Lámpara.
+- Lámpara. -> Marco
 - Sierra.
 - Cajones pequeños con tornillos, clavos...
 - Estantería. -> Elena
 - Mesa de trabajo.
  . Luz para la mesa (flexo...)
- . Café, bebida energética, cerveza...
+ . Café, bebida energética, cerveza... ->Elisabeth
 - Silla de trabajo. -> Dani/flojo
 - Pósters (nombre empresa, música...) -> Elisabeth
 - Cinta de carrocero...
@@ -21,4 +21,5 @@
 - Cubo de basura. -> Marco
 - Cenicero (con colillas).
 - Gafas de protección.
+- Reloj.
 
