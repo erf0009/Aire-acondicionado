@@ -14,7 +14,7 @@
  . Café, bebida energética, cerveza... ->Elisabeth
 - Silla de trabajo. -> Dani/flojo
 - Pósters (nombre empresa, música...) -> Elisabeth
-- Cinta de carrocero...
+- Cinta de carrocero... -> Marco
 - Alicates.
 - Enchufe de pared.
 - Tablones de madera.
@@ -22,5 +22,3 @@
 - Cenicero (con colillas).
 - Gafas de protección.
 - Reloj.
-
-
