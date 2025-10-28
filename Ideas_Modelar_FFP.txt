@@ -1,4 +1,4 @@
-- Destornillador de punta plana.
+- Destornillador de punta plana. -> Dani
 - Destornillador de punta estrella.
 - Panel para colgar herramientas.
 - Taladro.
@@ -22,3 +22,4 @@
 - Cenicero (con colillas).
 - Gafas de protección.
 - Reloj.
+
